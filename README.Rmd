@@ -1,0 +1,14 @@
+---
+title: "TCL"
+output: html_document
+markdown: kramdown
+
+kramdown:
+  input: GFM
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+$$f(x)$$
