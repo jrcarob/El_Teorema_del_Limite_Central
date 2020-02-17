@@ -6,4 +6,4 @@ https://towardsdatascience.com/understanding-the-central-limit-theorem-42286a6fb
 
 https://lambdaclass.com/data_etudes/central_limit_theorem_misuse/
 
-$\frac{x}{2}$
+$\frac{x}{2\sigma}$
