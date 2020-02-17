@@ -1,5 +1,5 @@
 ---
-title: "TCL"
+title: "Entendiendo El Teorema del Límite Central"
 output: html_document
 markdown: kramdown
 
@@ -10,5 +10,14 @@ kramdown:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+
+
+## Un análisis basado en:
+
+https://towardsdatascience.com/understanding-the-central-limit-theorem-42286a6fbd80
+
+https://lambdaclass.com/data_etudes/central_limit_theorem_misuse/
+
+$\frac{x}{2\sigma}$
 
 $$f(x)$$
